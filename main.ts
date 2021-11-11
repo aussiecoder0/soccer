@@ -8,4 +8,5 @@ input.onButtonPressed(Button.A, function () {
     score = 0
 })
 let score = 0
-score = 0
+basic.showString("Hello!")
+soundExpression.spring.playUntilDone()
